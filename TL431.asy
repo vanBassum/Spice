@@ -10,7 +10,6 @@ LINE Normal -24 -10 -16 -18
 LINE Normal 0 -48 0 -18
 LINE Normal 0 13 0 48
 LINE Normal 10 0 48 0
-RECTANGLE Normal -48 48 48 -48
 WINDOW 3 -8 64 Right 2
 WINDOW 0 -9 -64 Right 2
 SYMATTR Value TL431
